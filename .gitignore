@@ -1,0 +1,31 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.apk
+*.aab
+*.unitypackage
+crashlytics-buildid.txt
+
+# Unity Asset Store packs: import them from the Asset Store (see README), never commit them
+/Assets/CharacterPack Lowpoly (FREE)/
+/Assets/CharacterPack Lowpoly (FREE).meta
+/Assets/Kevin Iglesias/
+/Assets/Kevin Iglesias.meta
+/Assets/nappin/
+/Assets/nappin.meta
+/Assets/Animation Controller/HumanM@Idle01.anim
+/Assets/Animation Controller/HumanM@Idle01.anim.meta
